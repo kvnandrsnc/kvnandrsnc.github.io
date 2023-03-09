@@ -6,6 +6,12 @@ let allMusic = [
         src: "Una_Vez-BadBunny_Mora"
     },
     {
+        name: "Bellakera",
+        artist: "Cris Mj, Fran C",
+        img: "WelcomeToMyWorld",
+        src: "Bellakera-CrisMj_FranC"
+    },
+    {
         name: "otra vez",
         artist: "Feid, Alvaro Diaz",
         img: "BahiaDucati",
@@ -16,12 +22,6 @@ let allMusic = [
         artist: "Fran C, Cris Mj",
         img: "Experimento01",
         src: "Experimento_01-FranC_CrisMj"
-    },
-    {
-        name: "Bellakera",
-        artist: "Cris Mj, Fran C",
-        img: "WelcomeToMyWorld",
-        src: "Bellakera-CrisMj_FranC"
     },
     {
         name: "Pa Ti",
